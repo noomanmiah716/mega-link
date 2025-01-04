@@ -13,7 +13,7 @@ function Home() {
 
   // const { login } = useMockLogin(adminId, posterId, setShowModal);
 
-  return <>Eros</>;
+  return <>Mega Link</>;
 }
 
 export default Home;
